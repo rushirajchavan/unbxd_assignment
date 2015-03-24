@@ -103,9 +103,8 @@ public class NGrams {
 					}
 					cnt++;
 				}
-				temp = temp/list.size();
 				if(Double.compare(max, maxScore) > 0) {
-					maxScore = temp;
+					maxScore = max;
 					maxList = list;
 				}
 			}
@@ -119,14 +118,14 @@ public class NGrams {
 			if(maxList!=null) {
 				while((cnt2+1) < maxList.size()) {
 					temp1 = r.calcRelatednessOfWords(maxList.get(cnt2), maxList.get(cnt2+1));
-					if(minInterScore > temp1) {
+					if(Double.compare(minInterScore, temp1) > 0) {
 						minInterScore = temp1;
 					}
 					cnt2++;
 				}
 			}
 
-			if(maxList == null || minInterScore <= 0  || maxScore <= 0 ) {
+			if(maxList == null || Double.compare(minInterScore, 0.0) < 0  || Double.compare(maxScore, 0.0) < 0  ) {
 				System.out.println("NA");
 			}
 			else {

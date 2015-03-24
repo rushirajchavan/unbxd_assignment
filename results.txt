@@ -26,7 +26,7 @@ diaper - NA
 lamp - NA
 tv - NA
 stool - NA
-microwave - NA
+microwave - micro wave 
 cooker - NA
 diaper - NA
 oven - NA
@@ -84,7 +84,7 @@ furniture - NA
 clutch - NA
 hoodie - NA
 kimono - NA
-outerwear - NA
+outerwear - outer wear 
 skirt - NA
 shoe - NA
 sock - NA
@@ -166,7 +166,7 @@ scarf - NA
 scarves - NA
 plus-size - NA
 pearl - NA
-sunglass - NA
+sunglass - sun glass 
 bead - NA
 tankini - NA
 wristwatch - wrist watch 
@@ -178,7 +178,7 @@ bikini - NA
 vest - NA
 hat - NA
 robe - NA
-underwear - NA
+underwear - under wear 
 umbrella - NA
 tuxedo - tux edo 
 topaz - NA
@@ -186,7 +186,7 @@ tiara - NA
 thong - NA
 sweatshirt - sweat shirt 
 sweatpant - NA
-sunglass - NA
+sunglass - sun glass 
 strapless - NA
 smartwatch - NA
 slipper - NA
@@ -391,7 +391,7 @@ bathrobe - bath robe
 toasters - NA
 shampoo - NA
 pods - NA
-detergent - NA
+detergent - deter gent 
 pencils - NA
 tumbler - NA
 blanket - NA
@@ -417,7 +417,7 @@ reading glasses - NA
 quilt - NA
 mattresses - NA
 perfume - NA
-nintendo   - NA
+nintendo	 - NA
 nespresso - NA
 nerf - NA
 nail polish - NA
@@ -469,7 +469,7 @@ household - house hold
 clean - NA
 product - pro duct 
 dish - NA
-detergent - NA
+detergent - deter gent 
 scooter - NA
 skateboard - skate board 
 skate - NA
@@ -634,7 +634,7 @@ comedy - NA
 halloween - NA
 historic - NA
 documentary - NA
-underwear - NA
+underwear - under wear 
 soundtrack - sound track 
 pedal - NA
 push - NA
@@ -691,7 +691,7 @@ hammock - NA
 rocker - NA
 gown - NA
 sleep - NA
-outerwear - NA
+outerwear - outer wear 
 jean - NA
 tie - NA
 diet - NA
@@ -771,7 +771,7 @@ warmer - NA
 pillow - NA
 gadget - gad get 
 trunk - NA
-microwave - NA
+microwave - micro wave 
 cookware - cook ware 
 cooking - NA
 cook - NA
@@ -820,7 +820,7 @@ climber - NA
 float - NA
 tube - NA
 bike - NA
-mountain - NA
+mountain - mount ain 
 cruiser - NA
 easel - NA
 formula - NA
@@ -832,7 +832,7 @@ mice - NA
 keyboard - key board 
 drive - NA
 train - NA
-hardware - NA
+hardware - hard ware 
 hook - NA
 hookrail - NA
 pillowcase - pillow case 
@@ -893,7 +893,7 @@ condiment - NA
 server - NA
 nintendo - NA
 wii - NA
-software - NA
+software - soft ware 
 bird - NA
 feeder - NA
 specialty - NA
@@ -905,7 +905,7 @@ dispense - NA
 service - NA
 hose - NA
 sprinkler - NA
-sunglass - NA
+sunglass - sun glass 
 chocolate - NA
 toothbrush - tooth brush 
 napkin - nap kin 
@@ -1046,7 +1046,7 @@ baby - NA
 boots - NA
 comforter - NA
 pillowcase - pillow case 
-hardware - NA
+hardware - hard ware 
 ladder - NA
 stepstool - NA
 cookware - cook ware 
@@ -1060,16 +1060,16 @@ fireplace - fire place
 slipcover - slip cover 
 laptop - lap top 
 router - NA
-software - NA
+software - soft ware 
 MP3 - NA
 headphones - NA
 wireless - NA
 literature - NA
 PlayStation - NA
 canopies - NA
-portable - NA
+portable - port able 
 baseball - base ball 
-softball - NA
+softball - soft ball 
 basketball - basket ball 
 aftershave - NA
 shaver - NA
